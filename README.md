@@ -16,9 +16,6 @@ My primary interest lies in **Signal and Image Processing**. I am passionate abo
 * **Cyber Security 101** - Sivas Cumhuriyet University (Dec 2023)
 * **LinkedIn Profile Optimization** - BTK Akademi (Mar 2026)
 
-### 📂 Highlighted Project
-* **Optimization Project:** A comprehensive study including Python implementation, a technical article, and a presentation on optimization algorithms—the backbone of modern signal processing pipelines.
-
 ---
 
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/haticekubraunal)
