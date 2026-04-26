@@ -19,4 +19,5 @@ Currently, I am actively seeking internship opportunities in Data Science and Im
 
 ---
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/haticekubraunal)
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/haticekubraunal) | 
+📩 **Email:** h.kubraunal07@gmail.com
