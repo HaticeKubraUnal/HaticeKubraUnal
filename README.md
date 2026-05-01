@@ -4,11 +4,11 @@ I am a 3rd-year Computer Engineering student at Sivas Cumhuriyet University. I a
 
 ### 🎯 Professional Focus
 
-My primary focus areas are Artificial Intelligence, Algorithm Design, and Image Processing. I am highly experienced in developing Python-based meta-heuristic optimizations and building custom Deep Learning architectures. My ultimate goal is to translate my theoretical background into end-to-end deep learning processes, building high-accuracy neural networks and highly efficient, real-time computer vision systems.
+My primary focus areas are Artificial Intelligence, Algorithm Design, and Image Processing. I am experienced in developing Python-based meta-heuristic optimizations and building custom Deep Learning architectures. My goal is to translate my theoretical background into end-to-end deep learning processes, creating high-accuracy neural networks and efficient, real-time computer vision systems for real-world applications.
 
 ### 🌍 Current Goals & Erasmus+ 2026
 
-Currently, I am actively seeking international internship opportunities where I can apply my skills in Computer Vision and AI models. I am incredibly proud to share that I have been awarded an Erasmus+ Internship Mobility grant for 2026, ranking 2nd for my university's exclusive 3-person quota for Japan! Leveraging this opportunity, I am eagerly exploring research internships in academic laboratories and tech teams, particularly focusing on computational models and visual information systems.
+Currently, I am actively seeking internship opportunities in both Türkiye and Japan where I can apply my skills in Computer Vision and AI. I am incredibly proud to share that I have been awarded an Erasmus+ Internship Mobility grant for 2026, ranking 2nd for my university's exclusive 3-person quota for Japan! Leveraging this motivation and opportunity, I am eagerly exploring roles in both tech companies and academic research laboratories.
 
 ### 🚀 Technical Expertise
 
