@@ -4,11 +4,11 @@ I am a 3rd-year Computer Engineering student at Sivas Cumhuriyet University. I a
 
 ### 🎯 Professional Focus
 
-My primary focus areas are Signal/Image Processing, Artificial Neural Networks (ANN), and Meta-Heuristic Optimization. I enjoy building algorithm infrastructures for computer vision and autonomous systems. My goal is to translate my theoretical background into end-to-end deep learning processes and optimized real-time models.
+My primary focus areas are Artificial Intelligence, Algorithm Design, and Image Processing. I am highly experienced in developing Python-based meta-heuristic optimizations and building custom Deep Learning architectures. My ultimate goal is to translate my theoretical background into end-to-end deep learning processes, building high-accuracy neural networks and highly efficient, real-time computer vision systems.
 
 ### 🌍 Current Goals & Erasmus+ 2026
 
-Currently, I am actively seeking internship opportunities in Data Science and Image Processing. Additionally, I have been awarded an Erasmus+ Internship Mobility grant for 2026, ranking 2nd for my university's exclusive 3-person quota for Japan. Leveraging this opportunity, I am eagerly exploring internship roles in Japan-based tech companies and research teams!
+Currently, I am actively seeking international internship opportunities where I can apply my skills in Computer Vision and AI models. I am incredibly proud to share that I have been awarded an Erasmus+ Internship Mobility grant for 2026, ranking 2nd for my university's exclusive 3-person quota for Japan! Leveraging this opportunity, I am eagerly exploring research internships in academic laboratories and tech teams, particularly focusing on computational models and visual information systems.
 
 ### 🚀 Technical Expertise
 
@@ -19,5 +19,5 @@ Currently, I am actively seeking internship opportunities in Data Science and Im
 
 ---
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/haticekubraunal) | 
-📩 **Email:** h.kubraunal07@gmail.com
+#### 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/haticekubraunal)
+#### 📩 **Email:** h.kubraunal07@gmail.com
