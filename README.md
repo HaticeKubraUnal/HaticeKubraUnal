@@ -16,4 +16,4 @@ I am actively preparing to pursue a Master's degree, exploring opportunities bot
 * **Core Areas:** Artificial Intelligence, Game Theory, Multi-Agent Systems, Meta-Heuristic Optimization, Computer Vision, Backend Architecture
 * **Languages:** Python, Java, JavaScript, HTML, CSS
 * **AI & Mathematical Modeling:** PyTorch, OpenCV, NumPy, SciPy, Pandas, Scikit-Learn
-* **Backend & Tools:** Node.js, Git, MySQL, Microsoft SQL Server
+* **Backend & Tools:** Node.js, Express.js, Git, MySQL, Microsoft SQL Server
