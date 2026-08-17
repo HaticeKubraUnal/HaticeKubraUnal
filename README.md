@@ -4,7 +4,7 @@ I am a 4th-year Computer Engineering student at Sivas Cumhuriyet University. I a
 
 #### 🎯 Current Focus & Projects
 
-* **Backend Engineering Internship:** Currently completing an internship at **beyond Technologies** as a Backend Developer. I am gaining hands-on experience in building scalable architectures, designing REST APIs, and working with modern industry standards including Node.js, Python...
+* **Backend Engineering Internship:** Currently completing an internship at **Beyond Technologies** as a Backend Developer. I am gaining hands-on experience in building scalable architectures, designing REST APIs, and working with modern industry standards including Node.js, Python...
 * **Graduation Research (Ongoing):** Developing a **Game Theory-based Task Allocation Simulation for UAV Swarms (Multi-Agent Systems)**. Instead of relying on centralized control, I am designing the mathematical engine and backend logic that allows multiple autonomous agents to make optimal, decentralized decisions using mathematical models and payoff matrices.
 
 #### 🌍 Academic & Career Goals
